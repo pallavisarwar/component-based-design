@@ -1,12 +1,6 @@
 # Component-Based Design
 
-Learn to design, plan and build frontend applications using a Component-Based approach. You will explore the React library which is designed to make Component-Based design easy and efficient.
-
-<!-- - local non-persistent state
-- remote data & logic via APIs
-- component-based design
-- loose central state management
-- single-page app -->
+Learn to design, plan and build frontend applications using a Component-Based approach. You will explore the ReactJS library which is designed to make Component-Based design easy and efficient.
 
 ---
 
