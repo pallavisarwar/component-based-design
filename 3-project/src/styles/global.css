@@ -42,12 +42,15 @@ table {
 	border-spacing: 0;
 }
 
+body { 
+	font-family: sans-serif;
+	background-color: #ff3a0e;
+	color: white;
+}
 
-body { font-family: sans-serif; }
+p { color: white; }
 
-p { color: black; }
-
-h1, h2, h3, h4, h5, h6 { color: black; }
+h1, h2, h3, h4, h5, h6 { color: white; }
 
 html, body, #root, main {
 	width: 100%;
