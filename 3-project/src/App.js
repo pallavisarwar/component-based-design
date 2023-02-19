@@ -1,7 +1,12 @@
+import { Header, AsideMenu } from './components';
+
 export const App = () => {
   return (
-    <div className='App'>
-      <header className='App-header'></header>
-    </div>
+    <>
+      <Header />
+      <main className='main'>
+        <AsideMenu />
+      </main>
+    </>
   );
 };
