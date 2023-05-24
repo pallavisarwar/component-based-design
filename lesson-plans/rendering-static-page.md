@@ -8,12 +8,10 @@ This week we will start the wonderful journey of React! Let's start by learning 
 
 - React [documentation](https://reactjs.org/) page
 
-
-
 ### Before Break
 
-- _20 min_: use`create-react-app` to create a React application and go through the basics of react 
-- _30 min_: Start covering rendering static page. Together Go through the example from [here](../1-rendering-static-pages/html-to-components/examples/portfolio-card/) 
+- _20 min_: use`vite` to create a React application and go through the basics of react
+- _30 min_: Start covering rendering static page. Together Go through the example from [here](../1-rendering-static-pages/html-to-components/examples/portfolio-card/)
   - continue with the [exercises](../1-rendering-static-pages/html-to-components/exercises/)
 - _30 min_: Start with rendering data
   - continue with the [exercises](component-based-design/2-rendering-data/excercise.md)
@@ -31,5 +29,4 @@ This week we will start the wonderful journey of React! Let's start by learning 
 
 ## After Class
 
-- continoue Working on the excercises and start with your deliverables 
-
+- continoue Working on the excercises and start with your deliverables

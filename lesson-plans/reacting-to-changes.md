@@ -4,7 +4,7 @@
 
 ## Before Class
 
-- Set up a new `create-react-app` on your local computer
+- Set up a new project on your local computer using `npm create vite@latest movies --template react`
   - Study [this project](https://github.com/CodeYourFuture/react-pokedex-exercises-solution/tree/week-1-exercise-i) and copy-type it's code into your local react app
   - you will use this as a starting point for the examples and exercises in class
 - Begin learning about the Virtual DOM

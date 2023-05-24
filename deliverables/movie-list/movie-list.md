@@ -1,12 +1,12 @@
 # movie list application
 
-Using [this](component-based-design/deliverables/film.json) Data, create React app that allows the users to get detailed information over the movies from the movie data.
+Using [this](component-based-design/deliverables/film.json) Data, Vite app that allows the users to get detailed information over the movies from the movie data.
 
 you can take a look here for [inspiration](https://react-query-movies-app.netlify.app/)
 
 ## Setup
 
-- use`create-react-app` to create a React application. Give it the name `movies`(or any)
+- use `npm create vite@latest movies --template react` to create a React application.
 - Copy and paste the provided data inside the src folder of your new project
 
 ## Phases
@@ -29,5 +29,4 @@ This is a project for individual work, here's a checklist for your `deliverable`
 - [ ] a nice README
 - [pull requests](https://github.com/_/_/pulls)
   - [ ] code review checklist is complete (write your own check list!)
-  
 ```

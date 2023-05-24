@@ -25,8 +25,8 @@ You can find in this folder the most minimal example for a React App to start it
 
 1. Open your terminal in the `2-managing-data` folder
 2. Install dependencies by running `npm install`
-3. Launch the local dev server by running `npm run start`
-4. Access you app in your favorite browser at `https://localhost:3000`
+3. Launch the local dev server by running `npm run dev`
+4. Access you app in your favorite browser at `https://localhost:5173`
 
 ## Exercise
 
@@ -35,5 +35,3 @@ Based on the exercise from first week:
 - Display pokemon list based on data from a state
 - Add a pokemon in the list with an input
 - Remove a pokemon from a list
-
-
