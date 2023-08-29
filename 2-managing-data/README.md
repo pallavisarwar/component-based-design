@@ -2,17 +2,16 @@
 
 ## Objectives
 
-1. Manage data inside states: [here](https://reactjs.org/docs/state-and-lifecycle.html)
-2. Understand lifecycle: [here](https://reactjs.org/docs/state-and-lifecycle.html)
-3. Handling events: [here](https://reactjs.org/docs/handling-events.html)
-4. Conditional rendering: [here](https://reactjs.org/docs/conditional-rendering.html)
-5. Handling forms: [here](https://reactjs.org/docs/forms.html)
+1. Manage data inside states: [here](https://react.dev/learn/state-a-components-memory)
+2. Understand lifecycle: [here](https://react.dev/learn/lifecycle-of-reactive-effects)
+3. Handling events: [here](https://react.dev/learn/responding-to-events)
+4. Conditional rendering: [here](https://react.dev/learn/conditional-rendering)
+5. Handling inputs: [here](https://react.dev/reference/react-dom/components/input)
 6. Use images from static and from source folder
 7. Use an external library
 
 ## Some resources
 
-- ReactJS Beta documentation: [here](https://beta.reactjs.org/)
 - React Bootstrap library: [here](https://react-bootstrap.netlify.app/)
 
 ### Lifecycle diagram

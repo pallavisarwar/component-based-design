@@ -2,12 +2,11 @@
 
 ## Objectives
 
-1. Understand what is ReactJS: [see doc](https://reactjs.org/docs/hello-world.html)
+1. Understand what is ReactJS: [see doc](https://react.dev/learn)
 2. Use [Vite](https://vitejs.dev/) to start a project: [see doc](https://vitejs.dev/guide/)
-3. Understand JSX: [see doc](https://reactjs.org/docs/introducing-jsx.html)
-4. Render your first component: [see doc](https://reactjs.org/docs/rendering-elements.html)
-5. Split your app into different component and pass props: [see doc](https://reactjs.org/docs/components-and-props.html)
-6. Render elements from lists: [see doc](https://reactjs.org/docs/lists-and-keys.html)
+3. Understand JSX: [see doc](https://react.dev/learn/writing-markup-with-jsx)
+4. Split your app into different components and pass props: [see doc](https://react.dev/learn/passing-props-to-a-component)
+5. Render elements from lists: [see doc](https://react.dev/learn/rendering-lists)
 
 ## Code example
 

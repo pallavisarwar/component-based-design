@@ -2,9 +2,13 @@
 
 ## Objectives
 
-1.
+1. Files organisation
+2. Sharing data across components with Context : [here](https://react.dev/learn/passing-data-deeply-with-context)
+3. Reusing logic with custom hooks : [here](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 ## Some resources
+
+- [Pokemon API documentation](https://pokeapi.co/)
 
 ## Code example
 
@@ -17,4 +21,6 @@ You can find in this folder the most minimal example for a React App to start it
 
 ## Exercise
 
-To be done...
+- Add error handling for the pokemon list generation
+- Add routing, give each pokemon its own URL
+- Improve layout and custmomize styles

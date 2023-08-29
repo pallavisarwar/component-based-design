@@ -1,9 +1,9 @@
 import { Button } from './Button';
 
-const list = ['Pikachu', 'Kevin', 'Ibrahim'];
+const list = ['Pikachu', 'Bulbazaur', 'Charmander', 'Squirtle']
 
-export const Aside = () => (
-  <aside>
+export const List = () => (
+  <div>
     <ul>
       {list.map((listItem) => (
         <li key={listItem}>{listItem}</li>
@@ -15,5 +15,5 @@ export const Aside = () => (
       <li>{list[2]}</li>
     </ul>
     <Button>Do it!</Button>
-  </aside>
+  </div>
 );

@@ -11,7 +11,7 @@ export const usePokemon = (pokemonId) => {
   const fetchPokemon = () => {
     setData(null);
     setIsLoading(true);
-    fetch(`https://pokeapi.co/api/v2/pokemon/aojdfeh${pokemonId}`)
+    fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonId}`)
       .then((response) => {
         if (response.ok) return response.json();
 

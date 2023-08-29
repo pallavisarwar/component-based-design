@@ -1,6 +1,6 @@
 import { createContext, useState, useContext } from 'react';
 
-export const ErrorContext = createContext(null);
+const ErrorContext = createContext(null);
 
 export const ErrorContextProvider = ({ children }) => {
   const [error, setError] = useState('');
