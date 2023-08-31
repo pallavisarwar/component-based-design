@@ -23,4 +23,4 @@ You can find in this folder the most minimal example for a React App to start it
 
 - Add error handling for the pokemon list generation
 - Add routing, give each pokemon its own URL
-- Improve layout and custmomize styles
+- Add server-side rendering, using a meta-framework like Next.js
