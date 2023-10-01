@@ -36,10 +36,9 @@ your study time and to measure your progress:
 
 - recreate an HTML/CSS web page using pure functions components and encapsulated styles
 
-🥚  JSX : you can ...
+🥚 JSX : you can ...
 
-- [ ]  Write elements with JSX syntax
-
+- [ ] Write elements with JSX syntax
 
 ### [2. Rendering Data](./2-rendering-data)
 
@@ -80,8 +79,8 @@ your study time and to measure your progress:
 
 🥚VDOM : you ....
 
-- [ ]  can differenciate the real dom from the virtual dom
-- [ ]  know what reconciliation process is ..
+- [ ] can differenciate the real dom from the virtual dom
+- [ ] know what reconciliation process is ..
 
 🥚 Hook
 
@@ -267,9 +266,5 @@ These 4 columns may be helpful:
    - `cd component-based-design`
 3. Install dependencies:
    - `npm install`
-
-> It's highly recommended that you use either Linux or Mac. If you have a
-> Windows computer you can either dual-boot your computer or install a virtual
-> machine.
 
 [TOP](#component-based-design)

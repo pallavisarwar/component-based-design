@@ -7,7 +7,7 @@ import pikaUrl from './pikachu.webp';
 
 import './PokemonForm.css';
 
-const pokemons = ['pikachu', 'Kevin', 'Nico', 'Ibrahim'];
+const pokemons = ['Pikachu', 'Bulbazaur', 'Charmander', 'Squirtle'];
 
 export const PokemonForm = () => {
   const [value, setValue] = useState('');
@@ -33,15 +33,18 @@ export const PokemonForm = () => {
           setPokemon(true);
         }}
       >
-        <Form.Control
-          isInvalid={errors.length}
-          placeholder='Email'
-          value={value}
-          onChange={(e) => {
-            setValue(e.target.value);
-            checkForErrors(e.target.value);
-          }}
-        />
+        <Form.Group>
+          <Form.Label>Search for a pokemon</Form.Label>
+          <Form.Control
+            isInvalid={errors.length}
+            placeholder='Pikachu'
+            value={value}
+            onChange={(e) => {
+              setValue(e.target.value);
+              checkForErrors(e.target.value);
+            }}
+          />
+        </Form.Group>
         <Button type='submit' disabled={!isCorrect}>
           submit
         </Button>
